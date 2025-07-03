@@ -38,3 +38,14 @@ Sentiment_Analyzer/
 
 ## 🧠 Model Info
 The model was trained on a Twitter sentiment dataset using TF-IDF vectorization + Logistic Regression classifier.
+
+## 📦 Dependencies
+Flask
+scikit-learn
+pandas
+joblib
+nltk
+notebook
+
+## 📚 Dataset Used
+Twitter sentiment dataset (twitter_training.csv and twitter_validation.csv) - From Kaggle
