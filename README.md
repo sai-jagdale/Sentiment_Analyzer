@@ -40,15 +40,15 @@ Sentiment_Analyzer/
 The model was trained on a Twitter sentiment dataset using TF-IDF vectorization + Logistic Regression classifier.
 
 ##🛠️ Technologies Used
-Python – Programming language used for backend and model training
-Flask – Lightweight web framework for building the application interface
-NLTK – Natural Language Toolkit for text preprocessing and cleaning
-Scikit-learn – For building and training the sentiment classification model
-Pandas – Handling and processing dataset (CSV files)
-Joblib – Saving and loading trained ML models and vectorizers
-Tailwind CSS – For modern, responsive frontend styling (via CDN)
-HTML5 – Markup language for frontend UI
-Jupyter Notebook – For training and experimenting with the model
+- Python – Programming language used for backend and model training
+- Flask – Lightweight web framework for building the application interface
+- NLTK – Natural Language Toolkit for text preprocessing and cleaning
+- Scikit-learn – For building and training the sentiment classification model
+- Pandas – Handling and processing dataset (CSV files)
+- Joblib – Saving and loading trained ML models and vectorizers
+- Tailwind CSS – For modern, responsive frontend styling (via CDN)
+- HTML5 – Markup language for frontend UI
+- Jupyter Notebook – For training and experimenting with the model
 
 ## 🚀 How to Run the Project
 # 1. Clone the repository
